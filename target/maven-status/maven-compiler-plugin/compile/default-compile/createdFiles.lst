@@ -1,0 +1,13 @@
+com/hbase/rest/Constants$Url.class
+com/hbase/rest/config/Configuration.class
+com/hbase/rest/serialization/XmlSerializationProcessor.class
+com/hbase/rest/Constants.class
+com/hbase/rest/Routes.class
+com/hbase/client/HBaseTestClient.class
+com/hbase/rest/serialization/JsonSerializationProcessor.class
+com/hbase/rest/Main.class
+com/hbase/client/HBaseClient.class
+com/hbase/rest/Constants$Routes.class
+com/hbase/rest/serialization/SerializationProvider.class
+com/hbase/rest/controller/Article.class
+com/hbase/rest/controller/Controller.class
