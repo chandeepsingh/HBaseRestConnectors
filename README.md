@@ -1,4 +1,5 @@
 A Minimal RestExpress Server + HBase Custom Client
+=========================
 
 Uses the template RestExpress project and adds features to query HBase.
 
