@@ -13,4 +13,4 @@ To create a project deployable assembly (zip file):
 Main - src/main/java/hbase/hbase/rest/
 Client - src/main/java/hbase/hbase/client/
 RestExpress Port - 8081
-Sample UI Request - localhost:8081/<tableName>/<RowId>/<CF>.json
+Sample UI Request - localhost:8081/tableName/RowId/CF.json
